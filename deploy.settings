@@ -1,0 +1,7 @@
+siteUrl = https://github.com/androidzila/AndroidRoom
+gitUrl = https://github.com/androidzila/AndroidRoom.git
+version = 1.0.0
+groupId = com.techexe.androidroom
+licenses = ['Apache-2.0']
+id = androidroom
+name = utils
