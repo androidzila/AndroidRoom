@@ -19,7 +19,7 @@ Include the library in your ``build.gradle``
 
 ```groovy
 dependencies{
-    compile 'com.techexe:apptools:app:+'
+    compile 'com.techexe:androidroom:utils:+'
 }
 ```
 
